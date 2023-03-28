@@ -1,5 +1,7 @@
 # Bikesharing
 
+[link to dashboard]([LINK GOES HERE](https://public.tableau.com/app/profile/leishka.marrero/viz/NYCCitibikeAnalysis_16799755129480/NYCCitibikeAnalysis?publish=yes))
+
 ## Purpose
 Use Tableu to provide a business proposal to begin a bike-sharing program in Des Moines, Iowa. We will be using Citi Bike data from New York to create a set of visualizations that summarize the average ride durations, type of users, and peak hours.
 
